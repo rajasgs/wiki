@@ -3,4 +3,4 @@
 Raja SGS Wiki
 ## General :
 
-  * [Vector on Ubunty](vector.md)
+  * [Vector on Ubuntu](vector.md)
