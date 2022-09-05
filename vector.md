@@ -52,4 +52,5 @@ vector --config ~/.vector/config/rj_dev.toml
 sudo service vector status
 
 more info:
+
 https://vector.dev/docs/setup/installation/package-managers/apt/
