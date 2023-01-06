@@ -18,6 +18,7 @@ Tasks:
 6. Launch an instance with recently created instance
 
 7. Install Vector on Ubuntu
+	<br>
 	https://rajasgs.github.io/wiki/vector.html
 
 8. 
