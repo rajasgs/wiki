@@ -34,7 +34,9 @@ Tasks:
 13. Connect your flask logs to Kibana by using Vector 
 
 14. Create Autoscaling group which will scale up based on the SQS messages. 
+	<br>
 	Each instance should consume 5 messages per minute.
+	<br>
 	Max 3 instances should be used for testing
 	
 15. AWS Alarm should be created when only 20% space in EC2. User should get an email when such situation occurs.
