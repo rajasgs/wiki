@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# How to install Vector on Ubuntu?
+## How to install Vector on Ubuntu?
 
 
 How to install vector?

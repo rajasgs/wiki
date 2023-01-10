@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Devops Tasks
+## Devops Tasks
 
 Tasks:
 1. Create simple EC2 by using CloudFormation with specific IPs enabled in the security Group.
